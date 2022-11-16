@@ -11,14 +11,14 @@ from helper import preprocessing_data, graph_sentiment, analyse_mention, analyse
 
 
 st.set_page_config(
-     page_title="TSA By Manish & Shahid",
+     page_title="TSA By Manish Das",
      page_icon="📊",
      layout="wide",
      initial_sidebar_state="expanded",
      menu_items={
          'Get Help': 'https://ageSochengeKyaLinkDalnaHai',
          'Report a bug': "https://bagMileToCallKrDiyo",
-         'About': "# Twitter Sentiment Analysis Made by Manish Das & Shahid Sadiq 🤩!"
+         'About': "# Twitter Sentiment Analysis Made by Manish Das!"
      }
 )
 
