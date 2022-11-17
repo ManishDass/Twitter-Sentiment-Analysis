@@ -15,11 +15,6 @@ st.set_page_config(
      page_icon="📊",
      layout="wide",
      initial_sidebar_state="expanded",
-     menu_items={
-         'Get Help': 'https://ageSochengeKyaLinkDalnaHai',
-         'Report a bug': "https://bagMileToCallKrDiyo",
-         'About': "# Twitter Sentiment Analysis Made by Manish Das!"
-     }
 )
 
 title = "";
